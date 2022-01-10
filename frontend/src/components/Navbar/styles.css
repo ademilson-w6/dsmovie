@@ -21,9 +21,15 @@ header{
 .dsmovie-contact-container{
     display: flex;
     align-items: center;
+    height: 23,41px;
+    width: 24px;
 }
 
 .dsmovie-contact-link{
     margin: 0 0 0 10px;
     font-size: 12px;
+    left: 851px;
+    width: 72px;
+    height: 16px;
+    top: 22px;
 }

@@ -1,8 +1,8 @@
-package com.example.dsmovie.entities.repositories.controllers;
+package com.example.dsmovie.controllers;
 
 
-import com.example.dsmovie.entities.dto.MovieDTO;
-import com.example.dsmovie.entities.services.MovieService;
+import com.example.dsmovie.dto.MovieDTO;
+import com.example.dsmovie.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

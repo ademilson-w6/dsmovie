@@ -1,4 +1,4 @@
-package com.example.dsmovie.entities.repositories;
+package com.example.dsmovie.repositories;
 
 import com.example.dsmovie.entities.Score;
 import com.example.dsmovie.entities.User;

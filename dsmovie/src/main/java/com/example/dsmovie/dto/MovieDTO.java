@@ -1,4 +1,4 @@
-package com.example.dsmovie.entities.dto;
+package com.example.dsmovie.dto;
 
 import com.example.dsmovie.entities.Movie;
 
